@@ -1,0 +1,11 @@
+C:\Users\Luna\source\repos\APS _2026_1\bin\Debug\APS _2026_1.exe.config
+C:\Users\Luna\source\repos\APS _2026_1\bin\Debug\APS _2026_1.exe
+C:\Users\Luna\source\repos\APS _2026_1\bin\Debug\APS _2026_1.pdb
+C:\Users\Luna\source\repos\APS _2026_1\obj\Debug\APS _2026_1.csproj.AssemblyReference.cache
+C:\Users\Luna\source\repos\APS _2026_1\obj\Debug\APS__2026_1.Form1.resources
+C:\Users\Luna\source\repos\APS _2026_1\obj\Debug\APS__2026_1.Properties.Resources.resources
+C:\Users\Luna\source\repos\APS _2026_1\obj\Debug\APS _2026_1.csproj.GenerateResource.cache
+C:\Users\Luna\source\repos\APS _2026_1\obj\Debug\APS _2026_1.csproj.CoreCompileInputs.cache
+C:\Users\Luna\source\repos\APS _2026_1\obj\Debug\APS _2026_1.exe
+C:\Users\Luna\source\repos\APS _2026_1\obj\Debug\APS _2026_1.pdb
+C:\Users\Luna\source\repos\APS _2026_1\obj\Debug\APS _2026_1.exe.config
