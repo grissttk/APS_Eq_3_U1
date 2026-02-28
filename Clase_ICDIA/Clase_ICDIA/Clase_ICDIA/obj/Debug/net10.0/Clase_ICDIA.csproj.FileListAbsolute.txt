@@ -1,0 +1,14 @@
+C:\Users\Luna\RiderProjects\Clase_ICDIA\Clase_ICDIA\bin\Debug\net10.0\Clase_ICDIA.exe
+C:\Users\Luna\RiderProjects\Clase_ICDIA\Clase_ICDIA\bin\Debug\net10.0\Clase_ICDIA.deps.json
+C:\Users\Luna\RiderProjects\Clase_ICDIA\Clase_ICDIA\bin\Debug\net10.0\Clase_ICDIA.runtimeconfig.json
+C:\Users\Luna\RiderProjects\Clase_ICDIA\Clase_ICDIA\bin\Debug\net10.0\Clase_ICDIA.dll
+C:\Users\Luna\RiderProjects\Clase_ICDIA\Clase_ICDIA\bin\Debug\net10.0\Clase_ICDIA.pdb
+C:\Users\Luna\RiderProjects\Clase_ICDIA\Clase_ICDIA\obj\Debug\net10.0\Clase_ICDIA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luna\RiderProjects\Clase_ICDIA\Clase_ICDIA\obj\Debug\net10.0\Clase_ICDIA.AssemblyInfoInputs.cache
+C:\Users\Luna\RiderProjects\Clase_ICDIA\Clase_ICDIA\obj\Debug\net10.0\Clase_ICDIA.AssemblyInfo.cs
+C:\Users\Luna\RiderProjects\Clase_ICDIA\Clase_ICDIA\obj\Debug\net10.0\Clase_ICDIA.csproj.CoreCompileInputs.cache
+C:\Users\Luna\RiderProjects\Clase_ICDIA\Clase_ICDIA\obj\Debug\net10.0\Clase_ICDIA.dll
+C:\Users\Luna\RiderProjects\Clase_ICDIA\Clase_ICDIA\obj\Debug\net10.0\refint\Clase_ICDIA.dll
+C:\Users\Luna\RiderProjects\Clase_ICDIA\Clase_ICDIA\obj\Debug\net10.0\Clase_ICDIA.pdb
+C:\Users\Luna\RiderProjects\Clase_ICDIA\Clase_ICDIA\obj\Debug\net10.0\Clase_ICDIA.genruntimeconfig.cache
+C:\Users\Luna\RiderProjects\Clase_ICDIA\Clase_ICDIA\obj\Debug\net10.0\ref\Clase_ICDIA.dll
