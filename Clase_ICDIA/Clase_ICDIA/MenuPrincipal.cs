@@ -1,4 +1,5 @@
 ﻿using Clase_ICDIA.Abstraccion;
+using Clase_ICDIA.CarroHerencia;
 using Clase_ICDIA.Carros;
 using Clase_ICDIA.EjemMascotas;
 using Clase_ICDIA.EjempAlumnos;
@@ -23,7 +24,8 @@ public class MenuPrincipal
         //ProgramAlumno program = new ProgramAlumno();
         //LogicaCarro programa = new LogicaCarro();
         //LogicaAlumno programa = new LogicaAlumno();
+        LogicaCarritos programa = new LogicaCarritos();
         
-        LogicaZapato programa = new LogicaZapato();
+        //LogicaZapato programa = new LogicaZapato();
     }
 }

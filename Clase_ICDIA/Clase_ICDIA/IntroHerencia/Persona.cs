@@ -16,6 +16,6 @@ public class Persona
 
     public void Saludar()
     {
-        
+        Console.WriteLine("Saludo como Persona");
     }
 }
