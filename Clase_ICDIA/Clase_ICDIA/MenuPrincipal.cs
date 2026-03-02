@@ -6,6 +6,7 @@ using Clase_ICDIA.EjempAlumnos;
 using Clase_ICDIA.IntroHerencia;
 using Clase_ICDIA.NumComplejos;
 using Clase_ICDIA.OpBasic;
+using Clase_ICDIA.Telefonos;
 using Clase_ICDIA.Zapato;
 
 namespace Clase_ICDIA;
@@ -24,8 +25,9 @@ public class MenuPrincipal
         //ProgramAlumno program = new ProgramAlumno();
         //LogicaCarro programa = new LogicaCarro();
         //LogicaAlumno programa = new LogicaAlumno();
-        LogicaCarritos programa = new LogicaCarritos();
+        //LogicaCarritos programa = new LogicaCarritos();
         
         //LogicaZapato programa = new LogicaZapato();
+        LogicaTelefonos programa = new LogicaTelefonos();
     }
 }
